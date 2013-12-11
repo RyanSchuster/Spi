@@ -1,3 +1,3 @@
-Project removed temporarily due to licensing concerns
+Arduino SPI interface library
 
-Everything will be reuploaded once proper license headers have been added to the source code files.
+See LICENSE.txt
